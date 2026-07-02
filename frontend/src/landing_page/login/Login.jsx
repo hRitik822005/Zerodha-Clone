@@ -54,7 +54,7 @@ function Login() {
         handleSuccess(message);
 
         setTimeout(() => {
-          window.location.replace("/");
+          window.location.replace("https://stocker-dashboard-w1it.onrender.com");
         }, 1000);
       } else {
         handleError(message);
