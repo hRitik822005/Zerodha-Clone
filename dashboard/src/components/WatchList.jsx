@@ -8,7 +8,6 @@ import {
   MoreHoriz,
 } from "@mui/icons-material";
 import GeneralContext from "./GeneralContext";
-import { watchlist } from "../data/data";
 import { Doughnut } from "react-chartjs-2";
 import { DoughnutChart } from "./DoughnutChart";
 
