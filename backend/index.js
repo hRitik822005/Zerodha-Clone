@@ -23,6 +23,7 @@ app.use(
         origin : [
           "http://localhost:5173",
           "http://localhost:5174",
+          "https://stocker-frontend-52un.onrender.com",
         ],
         credentials : true,
     })
