@@ -24,6 +24,7 @@ app.use(
           "http://localhost:5173",
           "http://localhost:5174",
           "https://stocker-frontend-52un.onrender.com",
+          "https://stocker-dashboard-w1it.onrender.com",
         ],
         credentials : true,
     })
