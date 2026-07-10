@@ -19,7 +19,7 @@ const { PositionsModel } = require('./model/PositionsModel');
 const { OrdersModel } = require('./model/OrdersModel');
 
 app.use(
-    cors({
+    cors({ 
         origin : [
           "http://localhost:5173",
           "http://localhost:5174",
